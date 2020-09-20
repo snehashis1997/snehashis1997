@@ -14,9 +14,11 @@
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+🏡 [kaggle][kaggle]
 
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
 [Logy.ai]: https://logy.ai
+[kaggle]: https://www.kaggle.com/snehashis1997
