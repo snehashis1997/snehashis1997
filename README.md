@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as Software developer intern at [Logy.ai]
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
-
+https://github-readme-stats.vercel.app/api?username=snehashis1997&count_private=true&show_icons=true&theme=radical
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
