@@ -1,5 +1,11 @@
 ### Hi, I'm Snehashis. 👋
 
+### স্বাগতম 🤲🏻
+### Welcome
+### नमस्ते 🙏🏻
+### Hola 🤠
+### Guten Tag 🧪
+
 ## I'm a AI enthusiastic, currently working on Computer vision in Medical imaging
 
 - 🔭 I’m currently working as Software developer intern at [Logy.ai]
