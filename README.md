@@ -11,7 +11,10 @@
 - 🔭 I’m currently working as Software developer intern at [Logy.ai]
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
-https://github-readme-stats.vercel.app/api?username=snehashis1997&count_private=true&show_icons=true&theme=radical
+
+## My stats
+[snehashis]
+
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
@@ -22,3 +25,4 @@ https://github-readme-stats.vercel.app/api?username=snehashis1997&count_private=
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
 [Logy.ai]: https://logy.ai
 [kaggle]: https://www.kaggle.com/snehashis1997
+[snehashis]: https://github-readme-stats.vercel.app/api?username=snehashis1997&count_private=true&show_icons=true&theme=radical
