@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
 
-## My stats
-[snehashis]
+
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
@@ -25,7 +24,8 @@
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
 [Logy.ai]: https://logy.ai
 [kaggle]: https://www.kaggle.com/snehashis1997
-[snehashis]: https://github-readme-stats.vercel.app/api?username=snehashis1997&count_private=true&show_icons=true&theme=radical
+
+## My stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehashis1997&show_icons=true&include_all_commits=true&theme=radical" alt="Snehashis's github stats" />
