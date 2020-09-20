@@ -6,7 +6,7 @@
 ### Hola 
 ### Guten Tag 
 
-## I'm a AI enthusiastic, currently working on Computer vision in Medical imaging
+## I'm an AI enthusiastic, currently working on Computer vision in Medical imaging
 
 - 🔭 I’m currently working as a Software developer intern at [Logy.ai]
 - 🌱 I’m currently learning Reinforcement learning, Robotics, Flask, Docker
