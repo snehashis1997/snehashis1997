@@ -4,10 +4,7 @@
 
 - 🔭 I’m currently working as Software developer intern at Logy.ai
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
-- 💬 Ask me about JavaScript, Full Stack development, JAMstack, and building cool sh*t
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
-
+- 💬 Ask me about Data science, Computer vision
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
