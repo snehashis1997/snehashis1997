@@ -2,7 +2,7 @@
 
 ## I'm a AI enthusiastic, currently working on Computer vision in Medical imaging
 
-- 🔭 I’m currently working as Software developer intern at Logy.ai
+- 🔭 I’m currently working as Software developer intern at [Logy.ai]: https://logy.ai/
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
 
