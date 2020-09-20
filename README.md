@@ -1,6 +1,6 @@
 ### Hi, I'm Snehashis. 👋
 
-## I'm a AI enthusiastic
+## I'm a AI enthusiastic, currently working on Computer vision in Medical imaging
 
 - 🔭 I’m currently working as Software developer intern at Logy.ai
 - 🌱 I’m currently learning Reinforcement learning, Flask, Docker
@@ -9,8 +9,6 @@
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
-
-Shoutout to [Brad Garropy][brad] for the inspiration!
 
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
