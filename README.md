@@ -1,10 +1,10 @@
-### Hi, I'm Snehashis 🙂. 👋
+### Hi, I'm Snehashis 🙂 👋
 
-### স্বাগতম 🙏🏻
-### Welcome 🙏🏻
-### नमस्ते 🙏🏻
-### Hola 🙏🏻
-### Guten Tag 🙏🏻
+### স্বাগতম 😎
+### Welcome
+### नमस्ते
+### Hola 
+### Guten Tag 
 
 ## I'm a AI enthusiastic, currently working on Computer vision in Medical imaging
 
