@@ -16,11 +16,9 @@
 - 👉 Check out my recent repo [BlurNet]
 
 
-
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
-🏡 [kaggle][kaggle]
+🏡 [kaggle][kaggle] **|**
+😊 [HackerRank]
 
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
@@ -28,7 +26,7 @@
 [Logy.ai]: https://logy.ai
 [kaggle]: https://www.kaggle.com/snehashis1997
 [BlurNet]: https://github.com/snehashis1997/BlurNet
-
+[HackerRank]: https://www.hackerrank.com/Snehashis1997
 ## My stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
