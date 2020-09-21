@@ -8,8 +8,9 @@
 
 ## I'm an AI enthusiastic, currently working on Computer vision in Medical imaging
 
-"চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির,/ জ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর/ আপন প্রাঙ্গণতলে দিবসশর্বরী/ বসুধারে রাখে নাই খন্ড ক্ষুদ্র করি"-- রবীন্দ্রনাথ ঠাকুর
-"“Where the mind is without fear/ and the head is held high,/ where knowledge is free./ Where the world has not been broken up into fragments by narrow domestic walls." --
+"চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির,/ জ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর/ আপন প্রাঙ্গণতলে দিবসশর্বরী/ বসুধারে রাখে নাই খন্ড ক্ষুদ্র করি" -- রবীন্দ্রনাথ ঠাকুর
+
+"“Where the mind is without fear/ and the head is held high,/ where knowledge is free./ Where the world has not been broken up into fragments by narrow domestic walls." -- Rabindranath Tagore
 
 
 - 🔭 I’m currently working as a Software developer intern at [Logy.ai]
