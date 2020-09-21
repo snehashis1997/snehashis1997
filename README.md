@@ -8,9 +8,9 @@
 
 ## My favourite quote
 
-#### "চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির/জ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর" -- রবীন্দ্রনাথ ঠাকুর
+#### "চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির" -- রবীন্দ্রনাথ ঠাকুর
 
-### "Where the mind is without fear/and the head is held high" -- Rabindranath Tagore
+### "Where the mind is without fear and the head is held high" -- Rabindranath Tagore
 
 ## I'm an AI enthusiastic, currently working on Computer vision in Medical imaging
 
