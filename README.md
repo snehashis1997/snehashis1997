@@ -11,6 +11,7 @@
 - 🔭 I’m currently working as a Software developer intern at [Logy.ai]
 - 🌱 I’m currently learning Reinforcement learning, Robotics, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
+-    Check out my recent repo [BlurNet]
 
 
 
@@ -24,6 +25,7 @@
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
 [Logy.ai]: https://logy.ai
 [kaggle]: https://www.kaggle.com/snehashis1997
+[BlurNet]: https://github.com/snehashis1997/BlurNet
 
 ## My stats
 
