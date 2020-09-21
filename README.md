@@ -10,7 +10,7 @@
 
 #### "চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির/জ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর" -- রবীন্দ্রনাথ ঠাকুর
 
-#### "Where the mind is without fear/and the head is held high" --     Rabindranath Tagore
+### "Where the mind is without fear/and the head is held high" -- Rabindranath Tagore
 
 
 - 🔭 I’m currently working as a Software developer intern at [Logy.ai]
