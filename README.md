@@ -15,11 +15,12 @@
 - 💬 Ask me about Data science, Computer vision
 - 👉 Check out my recent repo [BlurNet]
 
-
+[Resume][resume] **|**
 👔 [linkedin][linkedin] **|**
 🏡 [kaggle][kaggle] **|**
 😊 [HackerRank]
 
+[resume]: https://docs.google.com/document/d/1AR8-qXoFzfECLLY1tWuJ0V3rX5DT7EbNy8tbRJIU7mM/edit?usp=sharing
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
