@@ -10,7 +10,7 @@
 
 ## I'm an AI enthusiastic, currently working on Computer vision in Medical imaging
 
-- 🔭 I’m currently working as a Software developer intern at [Logy.ai]
+- 🔭 I’m currently working as a Software developer intern at [artivatic.ai]
 - 🌱 I’m currently learning Reinforcement learning, Robotics, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
 - 👉 Check out my recent repo [BlurNet]
@@ -24,7 +24,7 @@
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
 [linkedin]: https://www.linkedin.com/in/snehashis-chatterjee-576368123/
-[Logy.ai]: https://logy.ai
+[artivatic.ai]: https://new.artivatic.ai/
 [kaggle]: https://www.kaggle.com/snehashis1997
 [BlurNet]: https://github.com/snehashis1997/BlurNet
 [HackerRank]: https://www.hackerrank.com/Snehashis1997
