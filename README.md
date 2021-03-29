@@ -20,7 +20,7 @@
 🏡 [kaggle][kaggle] **|**
 😊 [HackerRank]
 
-[crosscope]: https://www.videonetics.com/
+[Videonetics Technology Private Limited]: https://www.videonetics.com/
 [resume]: https://drive.google.com/file/d/1mdi7HJxIwzcgROAXUZvgmIyO2rjPkSWj/view?usp=sharing
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
