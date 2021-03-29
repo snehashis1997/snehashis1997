@@ -10,7 +10,7 @@
 
 ## I'm an AI enthusiastic, currently working on Computer vision in Medical imaging
 
-- 🔭 I’m currently working as a Computer vision developer intern at [crosscope]
+- 🔭 I’m currently working as a Research Engineer ( Grade 1 ) at [Videonetics Technology Private Limited]
 - 🌱 I’m currently learning Reinforcement learning, Robotics, Flask, Docker
 - 💬 Ask me about Data science, Computer vision
 - 👉 Check out my recent repo [BlurNet]
@@ -20,7 +20,7 @@
 🏡 [kaggle][kaggle] **|**
 😊 [HackerRank]
 
-[crosscope]: https://www.crosscope.com/
+[crosscope]: https://www.videonetics.com/
 [resume]: https://drive.google.com/file/d/1mdi7HJxIwzcgROAXUZvgmIyO2rjPkSWj/view?usp=sharing
 [twitter]: https://twitter.com/SnehashisChatt6
 [instagram]: https://www.instagram.com/belashese/?hl=en
