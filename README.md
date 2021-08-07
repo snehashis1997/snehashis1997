@@ -8,7 +8,7 @@
 
 ### "Where the mind is without fear and the head is held high" -- Rabindranath Tagore
 
-## I'm an AI enthusiastic, currently working on Computer vision in CCTV based Video Analytics
+## Currently working on Computer vision in CCTV based video analytics
 
 - 🔭 I’m currently working as a Research Engineer ( Grade 1 ) at [Videonetics Technology Private Limited]
 - 🌱 I’m currently learning Reinforcement learning, Robotics, Flask, Docker
