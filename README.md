@@ -15,6 +15,10 @@
 - 🛠 I have experience in **Deep Learning, Low-Level Vision, Multi-View Geometry, and AR/VR**
 - 👉 Check out my recent research projects and implementations 
 
+## Previous Experience
+
+- I was working at **Videonetics Technology Private Limited** as a **Research Engineer** for **4 years (April 2021 - January 2025)**, where I worked on **real-time video analytics**, building **computer vision, edge-computing, and digital image processing solutions**. I worked on **large-scale video analytics datasets**, developing **highly fast and reconfigurable systems for smart city and traffic management applications**.
+
 ## Connect with Me
 
 👔 [LinkedIn][linkedin] **|**  
