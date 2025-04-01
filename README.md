@@ -9,7 +9,7 @@
 
 ## Currently Working on 3D Computer Vision, Computational Imaging, and Computer Graphics
 
-- 🔭 I’m currently a **PhD Scholar** at **IIT Madras** under **Prof. Kaushik Mitra** in the **Computational Imaging Lab**
+- 🔭 I’m currently a **Project Associate** at **IIT Madras** under **Prof. Kaushik Mitra** in the **Computational Imaging Lab**
 - 🌱 I’m currently learning **3D Computer Vision, Computational Photography, NeRF, PyTorch3D, and Virtual Reality**
 - 💬 Ask me about **Computer Vision, Computational Imaging, 3D Geometry, and Deep Learning**
 - 🛠 I have experience in **Deep Learning, Low-Level Vision, Multi-View Geometry, and AR/VR**
@@ -17,7 +17,7 @@
 
 ## Previous Experience
 
-- I was working at **Videonetics Technology Private Limited** as a **Research Engineer** for **4 years (April 2021 - January 2025)**, where I worked on **real-time video analytics**, building **computer vision, edge-computing, and digital image processing solutions**. I worked on **large-scale video analytics datasets**, developing **highly fast and reconfigurable systems for smart city and traffic management applications**.
+- I worked at **Videonetics Technology Private Limited** as a **Research Engineer** for **four years (April 2021 - January 2025)**. My work focused on **real-time video analytics**, where I developed **computer vision, edge-computing, and digital image processing solutions**. I also worked extensively with **large-scale video analytics datasets**, designing **highly efficient and reconfigurable systems for smart city infrastructure and traffic management applications**.
 
 ## Connect with Me
 
