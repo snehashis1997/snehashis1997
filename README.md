@@ -1,5 +1,5 @@
 ### Hi, I'm Snehashis 🙂 👋
-
+![My animation](assets/my-animation.gif)
 ## স্বাগতম | Welcome | नमस्ते | Hola | Guten Tag  
 
 ## My Favourite Quote
