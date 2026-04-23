@@ -41,14 +41,35 @@ My work lies at the intersection of:
 
 ## 💼 Experience
 
-### 🏢 Videonetics Technology Private Limited  
-**Senior Research Engineer**  
-📅 April 2021 – Present  
+### 🏢 Senior Research Engineer  
+**Videonetics Technology Private Limited**  
+📅 Dec 2025 – Present  
 
-- Worked on **real-time video analytics systems**
-- Designed **scalable AI pipelines for smart city & traffic systems**
+- Working on **Vision-Language Models (VLMs), LLMs, and edge AI systems**
+- Building **multimodal intelligent pipelines** for real-time applications  
+- Optimizing **AI inference on mobile and edge hardware**
+
+---
+
+### 🧪 Project Associate (Computational Imaging Lab)  
+**IIT Madras**  
+👨‍🏫 Advisor: Prof. Kaushik Mitra  
+📅 Feb 2025 – Nov 2025  
+
+- Worked on **3D Computer Vision and Computational Imaging**
+- Focused on **multi-view geometry and 3D reconstruction**
+- Explored **advanced vision pipelines for real-world imaging systems**
+
+---
+
+### 🏢 Research Engineer  
+**Videonetics Technology Private Limited**  
+📅 Apr 2021 – Jan 2025  
+
+- Developed **real-time video analytics systems**
 - Built **edge-optimized deep learning models**
-- Experience with **large-scale video datasets and deployment systems**
+- Worked on **large-scale video datasets and smart city applications**
+- Designed **efficient and scalable AI pipelines**
 
 ---
 
